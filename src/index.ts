@@ -23,7 +23,7 @@ loadHolidays()
     holidaysSet = null;
   });
 
-app.get('/api/working-date', (req: Request, res: Response) => {
+app.get('/api/calculate', (req: Request, res: Response) => {
   try {
     const { days, hours, date } = req.query;
 
