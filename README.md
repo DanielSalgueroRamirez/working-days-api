@@ -171,5 +171,5 @@ test("calcula fecha correcta para 1 día y 4 horas desde 2025-08-05T20:00:00Z", 
 ---
 
 ## 👨‍💻 Autor
-Daniel Eduardo Salguero Ramirez
+Daniel Eduardo Salguero Ramirez.
 Desarrollado para la prueba técnica **Working Days API** 🚀
